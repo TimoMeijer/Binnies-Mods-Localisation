@@ -1,0 +1,266 @@
+binniecore.mod.name=Binnie Core
+
+binniecore.rootBees.descriptor=Imker
+binniecore.rootTrees.descriptor=Boomkweker
+binniecore.rootButterflies.descriptor=Entomoloog
+binniecore.rootFlowers.descriptor=Tuinier
+
+binniecore.rootBees.shortName=Bijen
+binniecore.rootTrees.shortName=Bomen
+binniecore.rootButterflies.shortName=Vlinders & Motten
+binniecore.rootFlowers.shortName=Bloemen
+
+< I'm unable to think up appropiate wordplay in Dutch, feel free to update >
+binniecore.rootBees.epitome.0=Bijenmepper
+binniecore.rootBees.epitome.1=Amateur Imker
+binniecore.rootBees.epitome.2=Imker-In-Training
+binniecore.rootBees.epitome.3=Professioneel Imker
+binniecore.rootBees.epitome.4=meester Imker
+binniecore.rootBees.epitome.5=God onder Imkers
+binniecore.rootBees.epitome.6=Sengirs Uitverkorene
+
+binniecore.rootTrees.epitome.0=Wannabe Tree Farmer
+binniecore.rootTrees.epitome.1=Houthakker
+binniecore.rootTrees.epitome.2=Groene Handen
+binniecore.rootTrees.epitome.3=Bekende Boer
+binniecore.rootTrees.epitome.4=Agricultureel Meest
+binniecore.rootTrees.epitome.5=Boomkoning
+binniecore.rootTrees.epitome.6=Moeder Natuur
+
+binniecore.rootButterflies.epitome.0=Vliegenvanger
+binniecore.rootButterflies.epitome.1=Mottenjager
+binniecore.rootButterflies.epitome.2=Schepnet-tovenaar
+binniecore.rootButterflies.epitome.3=Rupsbaron
+binniecore.rootButterflies.epitome.4=Gevleugelde Moordenaar
+binniecore.rootButterflies.epitome.5=Mottenkoning
+binniecore.rootButterflies.epitome.6=Monarch van de Vlinders
+
+binniecore.rootFlowers.epitome.0=Viooltje
+binniecore.rootFlowers.epitome.1=Madelief
+binniecore.rootFlowers.epitome.2=Flower Power
+binniecore.rootFlowers.epitome.3=Midas Aanraking
+binniecore.rootFlowers.epitome.4=Groene Handen
+binniecore.rootFlowers.epitome.5=Meester Tuinier
+binniecore.rootFlowers.epitome.6=Ongeëvenaard Botanist
+
+binniecore.rootBees.chromosome.species=Soort
+binniecore.rootBees.chromosome.speed=Productie
+binniecore.rootBees.chromosome.lifespan=Levensduur
+binniecore.rootBees.chromosome.fertility=Vruchtbaarheid
+binniecore.rootBees.chromosome.temperature_tolerance=Temperatuur Tolerantie
+binniecore.rootBees.chromosome.nocturnal=Nachtactief
+binniecore.rootBees.chromosome.humidity=Vochtigheid
+binniecore.rootBees.chromosome.humidity_tolerance=Vochtigheids Tolerantie
+binniecore.rootBees.chromosome.tolerant_flyer=Regen Tolerantie
+binniecore.rootBees.chromosome.cave_dwelling=Grotbewoner
+binniecore.rootBees.chromosome.flower_provider=Bloemen
+binniecore.rootBees.chromosome.flowering=Bestuiving
+binniecore.rootBees.chromosome.territory=Territorium
+binniecore.rootBees.chromosome.effect=Effect
+
+binniecore.rootBees.chromosome.species.short=Soort
+binniecore.rootBees.chromosome.speed.short=Productie
+binniecore.rootBees.chromosome.lifespan.short=Levensduur
+binniecore.rootBees.chromosome.fertility.short=Vruchtbaarheid
+binniecore.rootBees.chromosome.temperature_tolerance.short=Temp. Tol.
+binniecore.rootBees.chromosome.nocturnal.short=Nachtactief
+binniecore.rootBees.chromosome.humidity.short=Vochtigheid
+binniecore.rootBees.chromosome.humidity_tolerance.short=Vocht. Tol.
+binniecore.rootBees.chromosome.tolerant_flyer.short=Regen Tol.
+binniecore.rootBees.chromosome.cave_dwelling.short=Grotbewoner
+binniecore.rootBees.chromosome.flower_provider.short=Bloemen
+binniecore.rootBees.chromosome.flowering.short=Bestuiving
+binniecore.rootBees.chromosome.territory.short=Territorium
+binniecore.rootBees.chromosome.effect.short=Effect
+
+binniecore.rootTrees.chromosome.species=Soort
+binniecore.rootTrees.chromosome.growth=Groei
+binniecore.rootTrees.chromosome.height=Hoogte
+binniecore.rootTrees.chromosome.fertility=Vruchtbaarheid
+binniecore.rootTrees.chromosome.fruits=Fruit
+binniecore.rootTrees.chromosome.yield=Opbrengst
+binniecore.rootTrees.chromosome.plant=Plant Type
+binniecore.rootTrees.chromosome.sappiness=Sappigheid
+binniecore.rootTrees.chromosome.territory=Territorium
+binniecore.rootTrees.chromosome.effect=Effect
+binniecore.rootTrees.chromosome.maturation=Ontwikkeling
+binniecore.rootTrees.chromosome.girth=Omtrek
+binniecore.rootTrees.chromosome.fireproof=Vuurbestendig
+
+binniecore.rootTrees.chromosome.species.short=Soort
+binniecore.rootTrees.chromosome.growth.short=Groei
+binniecore.rootTrees.chromosome.height.short=Hoogte
+binniecore.rootTrees.chromosome.fertility.short=Vruchtbaarheid
+binniecore.rootTrees.chromosome.fruits.short=Fruit
+binniecore.rootTrees.chromosome.yield.short=Opbrengst
+binniecore.rootTrees.chromosome.plant.short=Plant Type
+binniecore.rootTrees.chromosome.sappiness.short=Sappigheid
+binniecore.rootTrees.chromosome.territory.short=Territorium
+binniecore.rootTrees.chromosome.effect.short=Effect
+binniecore.rootTrees.chromosome.maturation.short=Ontwikkeling
+binniecore.rootTrees.chromosome.girth.short=Omtrek
+binniecore.rootTrees.chromosome.fireproof.short=Vuurbestendig
+
+binniecore.rootButterflies.chromosome.species=Soort
+binniecore.rootButterflies.chromosome.size=Grootte
+binniecore.rootButterflies.chromosome.speed=Snelheid
+binniecore.rootButterflies.chromosome.lifespan=Levensduur
+binniecore.rootButterflies.chromosome.metabolism=Metabolisme
+binniecore.rootButterflies.chromosome.fertility=Vruchtbaarheid
+binniecore.rootButterflies.chromosome.temperature_tolerance=Temperatuur Tolerantie
+binniecore.rootButterflies.chromosome.humidity_tolerance=Vochtigheids Tolerantie
+binniecore.rootButterflies.chromosome.nocturnal=Nachtactief
+binniecore.rootButterflies.chromosome.tolerant_flyer=Regen Tolerantie
+binniecore.rootButterflies.chromosome.fire_resist=Vuur Resistentie
+binniecore.rootButterflies.chromosome.flower_provider=Bloemen
+binniecore.rootButterflies.chromosome.effect=Effect
+binniecore.rootButterflies.chromosome.territory=Territorium
+
+binniecore.rootButterflies.chromosome.species.short=Soort
+binniecore.rootButterflies.chromosome.size.short=Grootte
+binniecore.rootButterflies.chromosome.speed.short=Snelheid
+binniecore.rootButterflies.chromosome.lifespan.short=Levensduur
+binniecore.rootButterflies.chromosome.metabolism.short=Metabolisme
+binniecore.rootButterflies.chromosome.fertility.short=Vruchtbaarheid
+binniecore.rootButterflies.chromosome.temperature_tolerance.short=Temp. Tol.
+binniecore.rootButterflies.chromosome.humidity_tolerance.short=Vocht. Tol.
+binniecore.rootButterflies.chromosome.nocturnal.short=Nachtactief
+binniecore.rootButterflies.chromosome.tolerant_flyer.short=Regen Tol.
+binniecore.rootButterflies.chromosome.fire_resist.short=Vuur Resist.
+binniecore.rootButterflies.chromosome.flower_provider.short=Bloemen
+binniecore.rootButterflies.chromosome.effect.short=Effect
+binniecore.rootButterflies.chromosome.territory.short=Territorium
+
+binniecore.rootFlowers.chromosome.species=Soort
+binniecore.rootFlowers.chromosome.primary=Primare Kleur
+binniecore.rootFlowers.chromosome.secondary=Secundaire Kleur
+binniecore.rootFlowers.chromosome.fertility=Vruchtbaarheiud
+binniecore.rootFlowers.chromosome.territory=Territorium
+binniecore.rootFlowers.chromosome.effect=Effect
+binniecore.rootFlowers.chromosome.lifespan=Levensduur
+binniecore.rootFlowers.chromosome.temperature_tolerance=Temperatuur Tolerantie
+binniecore.rootFlowers.chromosome.humidity_tolerance=Vochtigheids Tolerantie
+binniecore.rootFlowers.chromosome.ph_tolerance=pH Tolerantie
+binniecore.rootFlowers.chromosome.sappiness=Nectar
+binniecore.rootFlowers.chromosome.stem=Stengel Kleur
+
+binniecore.rootFlowers.chromosome.species.short=Soort
+binniecore.rootFlowers.chromosome.primary.short=Prim. Kleur
+binniecore.rootFlowers.chromosome.secondary.short=Sec. Kleur
+binniecore.rootFlowers.chromosome.fertility.short=Vruchtbaarheid
+binniecore.rootFlowers.chromosome.territory.short=Territorium
+binniecore.rootFlowers.chromosome.effect.short=Effect
+binniecore.rootFlowers.chromosome.lifespan.short=Levensduur
+binniecore.rootFlowers.chromosome.temperature_tolerance.short=Temp. Tol.
+binniecore.rootFlowers.chromosome.humidity_tolerance.short=Vocht. Tol.
+binniecore.rootFlowers.chromosome.ph_tolerance.short=pH Tol.
+binniecore.rootFlowers.chromosome.sappiness.short=Nectar
+binniecore.rootFlowers.chromosome.stem.short=Stengel Kleur
+
+binniecore.allele.fertility.low=Laag
+binniecore.allele.fertility.normal=Normaal
+binniecore.allele.fertility.high=Hoog
+binniecore.allele.fertility.maximum=Maximaal
+
+binniecore.allele.true=Ja
+binniecore.allele.false=Nee
+
+binniecore.allele.metabolism.highest=Hoogst
+binniecore.allele.metabolism.higher=Hoger
+binniecore.allele.metabolism.high=Hoog
+binniecore.allele.metabolism.average=Gemiddeld
+binniecore.allele.metabolism.slow=Langzaam
+binniecore.allele.metabolism.slower=Langzamer
+binniecore.allele.metabolism.slowest=Langzaamste
+
+
+binniecore.allele.none=Geen
+
+binniecore.allele.growth.tropical=Tropisch
+binniecore.allele.growth.lightlevel=Lichtniveau
+
+
+binniecore.beemodifier.territory=Territorium
+binniecore.beemodifier.mutation=Mutatie
+binniecore.beemodifier.lifespan=Levensduur
+binniecore.beemodifier.production=Productie
+binniecore.beemodifier.flowering=Bloeiend
+binniecore.beemodifier.geneticdecay=Genetisch Verval
+
+binniecore.gui.breedingmessage.species=Soort Ontdekt
+binniecore.gui.breedingmessage.branch=Tak Ontdekt
+binniecore.gui.breedingmessage.epithet=Karakterisering Ontdekt
+
+binniecore.item.container.capsule=Capsule
+binniecore.item.container.refractory=Capsule
+binniecore.item.container.can=Blik
+binniecore.item.container.bucket=Emmer
+binniecore.item.container.glass=Fles
+binniecore.item.container.cylinder=Cylinder
+
+binniecore.machine.storage.compartment=Compartiment
+binniecore.machine.storage.compartmentIron=Ijzeren Compartiment
+binniecore.machine.storage.compartmentDiamond=Diamanten Compartiment
+binniecore.machine.storage.compartmentCopper=Koperen Compartiment
+binniecore.machine.storage.compartmentBronze=Bronzen Compartiment
+binniecore.machine.storage.compartmentGold=Gouden Compartiment
+
+< %1$s is the name of the pattern >
+binniecore.gui.designer.pattern=%1$s Patroon
+
+binniecore.gui.database.nodescription=Geen Beschrijving Gegeven.
+
+binniecore.gui.database.mode.species=Soort
+binniecore.gui.database.mode.branches=Takken
+binniecore.gui.database.mode.breeder=Broeder
+
+binniecore.gui.temperature.short=Temp.
+binniecore.gui.humidity.short=Vocht.
+
+binniecore.gui.tolerated=Getolereerd
+binniecore.gui.nottolerated=Niet Getolereerd
+
+binniecore.gui.design=Design
+
+
+
+< Descriptions used for effects in the database >
+binniecore.allele.extrabees.effect.acid.desc=Lost steen en aarde op
+binniecore.allele.forestry.effectAggressive.desc=Valt spelers aan
+binniecore.allele.forestry.effectBeatific.desc=Herstelt langzaam levenspunten aan nabije spelers
+binniecore.allele.forestry.effectCreeper.desc=Explodeert krachtig bij benadering
+binniecore.allele.extrabees.effect.spawn_creeper.desc=Creërt creepers
+binniecore.allele.extrabees.effect.blindness.desc=Verblindt spelers
+binniecore.allele.forestry.effectDrunkard.desc=Zorgt dat spelers aangeschoten worden
+binniecore.allele.extrabees.effect.ectoplasm.desc=Creërt ectoplasmische webben
+binniecore.allele.forestry.effectMisanthrope.desc=Beschermt hun nest agressief
+binniecore.allele.forestry.effectExploration.desc=Beloont nabije spelers langzaam met ervaringspunten
+binniecore.allele.forestry.effectFertile.desc=Stimuleert nabije blokken
+binniecore.allele.extrabees.effect.fireworks.desc=Schiet spontaan vuurwerk de lucht in
+binniecore.allele.forestry.effectIgnition.desc=Start willekeurige vuurtjes
+binniecore.allele.forestry.effectGlacial.desc=Bevriest water langzaam
+binniecore.allele.extrabees.effect.gravity.desc=Trekt entiteiten naar het nest
+binniecore.allele.extrabees.effect.bonemealsapling.desc=Bemest boompjes
+binniecore.allele.forestry.effectHeroic.desc=Verdedigt hun nest tegen monsters
+binniecore.allele.extrabees.effect.hunger.desc=Zorgt dat spelers hongerig worden
+binniecore.allele.extrabees.effect.lightning.desc=Stimuleert blikseminslagen
+binniecore.allele.extrabees.effect.meteor.desc=Laat meteorieten neerkomen
+binniecore.allele.extrabees.effect.bonemealmushroom.desc=Bemest paddestoelen
+binniecore.allele.forestry.effectMycophilic.desc=Verspreidt paddestoelen em mycellium
+binniecore.allele.forestry.effectNone.desc=Geen waarneembare effecten
+binniecore.allele.forestry.effectMiasmic.desc=Vergiftigt spelers
+binniecore.allele.extrabees.effect.power.desc=Geeft een beetje stroom aan nabije machines
+binniecore.allele.forestry.effectRadioactive.desc=Vernietigt nabije blokken
+binniecore.allele.forestry.effectReanimation.desc=Reanimeert overleden monsters
+binniecore.allele.forestry.effectRepulsion.desc=Zorgt dat monsters uit de buurt blijven
+binniecore.allele.forestry.effectResurrection.desc=Doet overleden monsters herleven
+binniecore.allele.extrabees.effect.bonemealfruit.desc=Bemest fruit bladeren
+binniecore.allele.extrabees.effect.spawn_skeleton.desc=Creërt skeletten
+binniecore.allele.extrabees.effect.slow.desc=Vertraagt spelers
+binniecore.allele.forestry.effectSnowing.desc=Veroorzaakt sneeuw
+binniecore.allele.extrabees.effect.teleport.desc=Teleporteert entiteiten willekeurig
+binniecore.allele.extrabees.effect.radioactive.desc=Bestraalt iedereen die dichtbij komt
+binniecore.allele.extrabees.effect.water.desc=Vult machines met water
+binniecore.allele.extrabees.effect.wither.desc=Geeft het wither-effect aan iedereen die dichtbij komt
+binniecore.allele.extrabees.effect.spawn_zombie.desc=Creërt zombies
+binniecore.allele.forestry.effectFestiveEaster.desc=Geen effect
